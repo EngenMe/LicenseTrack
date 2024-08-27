@@ -1,0 +1,230 @@
+Afghan
+Albanian
+Algerian
+American Samoan
+Andorran
+Angolan
+Anguillian
+Antarctican
+Antiguan
+Argentine
+Armenian
+Aruban
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Belarusian
+Belgian
+Belizean
+Beninese
+Bermudian
+Bhutanese
+Bosnian
+Botswanan
+Bouvet Islander
+Brazilian
+British Indian Ocean Territory
+Bruneian
+Bulgarian
+Burkinabe
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Cape Verdean
+Caymanian
+Central African
+Chadian
+Chilean
+Chinese
+Christmas Islander
+Cocos Islander
+Colombian
+Comoran
+Congolese
+Cook Islander
+Costa Rican
+Croatian
+Cuban
+Cypriot
+Czech
+Danish
+Djiboutian
+Dominican
+Dominican (Republic)
+Ecuadorian
+Egyptian
+Salvadoran
+Equatorial Guinean
+Eritrean
+Estonian
+Ethiopian
+Falkland Islander
+Faroese
+Fijian
+Finnish
+French
+French Guianese
+French Polynesian
+French Southern Territories
+Gabonese
+Gambian
+Georgian
+German
+Ghanaian
+Gibraltarian
+Greek
+Greenlandic
+Grenadian
+Guadeloupean
+Guamanian
+Guatemalan
+Guernsey
+Guinean
+Bissau-Guinean
+Guyanese
+Haitian
+Heard Island and McDonald Islander
+Vatican
+Honduran
+Hong Konger
+Hungarian
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Manx
+Israeli
+Italian
+Jamaican
+Japanese
+Jersey
+Jordanian
+Kazakh
+Kenyan
+I-Kiribati
+Kuwaiti
+Kyrgyz
+Laotian
+Latvian
+Lebanese
+Basotho
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macanese
+Malagasy
+Malawian
+Malaysian
+Maldivian
+Malian
+Maltese
+Marshallese
+Martinican
+Mauritanian
+Mauritian
+Mahoran
+Mexican
+Monegasque
+Mongolian
+Montenegrin
+Montserratian
+Moroccan
+Mozambican
+Burmese
+Namibian
+Nauruan
+Nepalese
+Dutch
+New Caledonian
+New Zealander
+Nicaraguan
+Nigerien
+Nigerian
+Niuean
+Norfolk Islander
+Northern Mariana Islander
+Norwegian
+Omani
+Pakistani
+Palauan
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Filipino
+Pitcairn Islander
+Polish
+Portuguese
+Puerto Rican
+Qatari
+Romanian
+Russian
+Rwandan
+Kittitian
+Saint Lucian
+Saint Martiner
+Saint-Pierrais
+Vincentian
+Samoan
+Sammarinese
+Santomean
+Saudi
+Senegalese
+Serbian
+Seychellois
+Sierra Leonean
+Singaporean
+Sint Maartener
+Slovak
+Slovenian
+Solomon Islander
+Somali
+South African
+South Georgian and South Sandwich Islander
+South Sudanese
+Spanish
+Sri Lankan
+Palestinian
+Sudanese
+Surinamese
+Svalbardian
+Eswatini
+Swedish
+Swiss
+Syrian
+Tajik
+Thai
+Timorese
+Togolese
+Tokelauan
+Tongan
+Trinidadian
+Tunisian
+Turkish
+Turkmen
+Turks and Caicos Islander
+Tuvaluan
+Ugandan
+Ukrainian
+Emirati
+British
+American
+American Outlying Islander
+Uruguayan
+Uzbek
+Ni-Vanuatu
+Vietnamese
+Wallisian
+Sahrawi
+Yemeni
+Zambian
+Zimbabwean

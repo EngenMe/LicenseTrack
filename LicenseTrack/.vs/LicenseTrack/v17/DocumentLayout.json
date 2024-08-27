@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|c:\\users\\moham\\source\\repos\\licensetrack\\classes\\setdefaultpersonalpictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|solutionrelative:classes\\setdefaultpersonalpictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|c:\\users\\moham\\source\\repos\\licensetrack\\forms\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|solutionrelative:forms\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|c:\\users\\moham\\source\\repos\\licensetrack\\forms\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|solutionrelative:forms\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|c:\\users\\moham\\source\\repos\\licensetrack\\forms\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|solutionrelative:forms\\frmaddnewperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|c:\\users\\moham\\source\\repos\\licensetrack\\forms\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF306975-FD7D-4A5A-960C-FFE773490E0B}|LicenseTrack.csproj|solutionrelative:forms\\frmpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetDefaultPersonalPictureService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Classes\\SetDefaultPersonalPictureService.cs",
+              "RelativeDocumentMoniker": "Classes\\SetDefaultPersonalPictureService.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Classes\\SetDefaultPersonalPictureService.cs",
+              "RelativeToolTip": "Classes\\SetDefaultPersonalPictureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:59:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAddNewPerson.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmAddNewPerson.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAddNewPerson.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmAddNewPerson.cs",
+              "RelativeToolTip": "Forms\\FrmAddNewPerson.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:47:00.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddNewPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmAddNewPerson.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmAddNewPerson.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmAddNewPerson.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmAddNewPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:02:25.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPeople.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmPeople.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPeople.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmPeople.cs",
+              "RelativeToolTip": "Forms\\FrmPeople.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:26:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmPeople.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPeople.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\LicenseTrack\\Forms\\FrmPeople.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:26:41.179Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
